@@ -52,3 +52,8 @@ The project is implemented using a **Jupyter Notebook** for clarity and step-by-
 - Comparison of energy consumption across regions  
 
 ---
+
+## 📌 Summary
+
+This project analyzes global energy consumption data to identify trends, patterns, and regional differences over time. Using Python and data analysis libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the study performs data cleaning, exploratory data analysis, and visualization to gain meaningful insights. The project helps in understanding how energy usage varies across countries and supports learning practical data analysis techniques using real-world datasets.
+
