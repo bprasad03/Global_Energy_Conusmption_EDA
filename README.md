@@ -43,9 +43,6 @@ The project is implemented using a **Jupyter Notebook** for clarity and step-by-
 
 ---
 
-
----
-
 ## 📊 Analysis Performed
 
 - Data cleaning and preprocessing  
