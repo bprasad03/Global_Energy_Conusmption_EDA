@@ -1,6 +1,6 @@
 # Global Energy Consumption Analysis 🌍⚡
 
-![]()
+![](https://github.com/bprasad03/Global_Energy_Conusmption_EDA/blob/main/earth.jpg)
 
 A **data analysis project** implemented in **Python** using **Pandas, NumPy, Matplotlib, and Seaborn**.  
 This project explores **global energy consumption trends**, compares usage across regions, and visualizes insights using charts and graphs.
